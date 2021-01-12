@@ -1,0 +1,6 @@
+WP LOGIN 
+ID: JeremWP
+MDP: matrixrevolution30
+
+ID: GenaWP
+MDP: bonboncaramel10
